@@ -47,3 +47,13 @@ through time
     Cons:
 	you have to do the "committing stage" unlike the the automatic saving
 where you'll just press save button and done.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file
+separately?
+    Git is more on version control for codes and scripts, so there are file
+scripts that are interdependent to each other. This means that when you
+changed something in one file you also need to change the other file.
+
+   Google docs is not for the programmers!hahaha.
+
