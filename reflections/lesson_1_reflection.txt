@@ -57,3 +57,12 @@ changed something in one file you also need to change the other file.
 
    Google docs is not for the programmers!hahaha.
 
+How can you use the commands git log and git diff to view the history of
+files?
+
+   git log is for viewing the history of the changes
+	git log --stat (includes also the statistics)
+   git diff is for getting the difference between two commits
+	git diff first_id second_id
+
+
