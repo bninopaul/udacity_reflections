@@ -23,8 +23,12 @@ commit it in order to have a good documentation in the commit messages.You can
 also run git diff --staged for comparing the commited changes and the chnages
 you are about to commit.
 
-What are some situations when branches would be helpful in keeping your
+4.What are some situations when branches would be helpful in keeping your
 history organized? How would branches help?
 
 branches are useful when you will make different versions but yet you are not
 sure what version of the file you want to use.
+
+5.How do the diagrams help you visualize the branch structure?
+
+	enlightening!hahahaha
