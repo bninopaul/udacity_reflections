@@ -1,9 +1,11 @@
-What happens when you initialize a repository? Why do you need to do it?
+1.What happens when you initialize a repository? Why do you need to do it?
 
 	git init will tell the system that the directory is already a
 repository. This is needed in order to perform different git commands.
 
-How is the staging area different from the working directory and the
+
+
+2.How is the staging area different from the working directory and the
 repository? What value do you think it offers?
 
 	staging area is where you put the files in preparation to wheter you
@@ -13,4 +15,16 @@ decide if you want to add the changes to the history of the repository or not.
 
 
 
+3.How can you use the staging area to make sure you have one commit per logical
+change?
 
+	every time there is a logical change in the file, you should add and
+commit it in order to have a good documentation in the commit messages.You can
+also run git diff --staged for comparing the commited changes and the chnages
+you are about to commit.
+
+What are some situations when branches would be helpful in keeping your
+history organized? How would branches help?
+
+branches are useful when you will make different versions but yet you are not
+sure what version of the file you want to use.
