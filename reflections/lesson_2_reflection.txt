@@ -32,3 +32,11 @@ sure what version of the file you want to use.
 5.How do the diagrams help you visualize the branch structure?
 
 	enlightening!hahahaha
+6.What is the result of merging two branches together? Why do we represent it
+in the diagram the way we do?
+
+	all the changes are combined into a new file. However, there are some
+changes that may or may not be included in the final merging, depends on some
+cases.
+
+
