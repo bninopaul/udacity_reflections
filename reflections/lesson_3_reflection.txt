@@ -2,3 +2,13 @@
 
 When you want to share your codes, say for example, you are doing team projects, and you need to share files
 to other teamates.
+
+
+2.Why might you want to always pull changes manually rather than having Git
+automatically stay up-to-date with your remote repository?
+
+As said in the beginning, GitHub is workplace for teams making a project.
+However, if there is a change that you don't want to incorporate in your files
+locally, then we can opt not to pull changes.
+
+
