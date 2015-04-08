@@ -19,4 +19,14 @@ clones - when you want to create an exact copy of repo in local or from github
 to local
 branches - only applicable in local.
 
+4. How would you collaborate without using Git or GitHub? What would be
+easier, and what would be harder?
 
+Without using Git or GitHub, it would be hard to keep track of the changes in
+your project because you have to make new file and save your project's version
+everytime you made changes and it would be hard to collaborate with your team
+mates if you are in group projects  whereas using Git and GitHub would make
+life easier,you don't need to make new file/ versions of your projects
+manually but you only have to commit changes in order to record the versions
+of your project and it is easier to go back to specific version.
+ 
